@@ -8,6 +8,9 @@ public class ClassB {
 		String[]b = {"Java", "Selenium", "C#"};
 		List<String> asList = Arrays.asList(b);
 		System.out.println(asList);
+		System.out.println(asList);
+		System.out.println(asList);
+		System.out.println(asList);
 	
 	}
 }
